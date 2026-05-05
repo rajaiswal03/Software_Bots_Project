@@ -114,6 +114,5 @@ const sampleUsers = [
 
 console.log(calculateDashboardStats(sampleUsers));
 
-console.log(calculateDashboardStats(sampleUsers));
 
 console.log("frontend change O2");
